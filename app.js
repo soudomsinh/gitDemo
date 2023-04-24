@@ -5,3 +5,5 @@ if(x > y){
 }else{
     console.log("y is greater than x")
 }
+
+console.log("Goodbye world")
